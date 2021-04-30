@@ -15,3 +15,8 @@
 + \dump 调试过程中产生的一些中间结果
 
 
+## 示例
+
+! [demo](https://github.com/TrueNobility303/vgg-image-style-tranfer/blob/master/results/arc.png)
+
+
